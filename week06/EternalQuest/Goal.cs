@@ -16,3 +16,4 @@ public abstract class Goal
     public abstract string GetDetails();
     public abstract bool IsComplete();
 }
+
